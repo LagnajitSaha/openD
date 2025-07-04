@@ -1,5 +1,5 @@
 # openD
-
+Initially, you need to have a look at https://github.com/LagnajitSaha/dfx-token to use CZNs.
 # To Install and Run the Project
 
 1. start local dfx
